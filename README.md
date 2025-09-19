@@ -118,6 +118,12 @@ Run `queries.sql` to explore analytics.
 📌 Refer to [`/docs/Entity_Relationship_Diagram.jpg`](docs/Entity_Relationship_Diagram.jpg) for the full schema relationships.  
 ---
 
+# 📹 Demo
+
+### YouTube presentation: Watch here (https://www.youtube.com/watch?v=ghvzvsQYQwM)
+
+---
+
 ## 🚀 Future Enhancements  
 
 - Web or mobile front-end for interaction  
